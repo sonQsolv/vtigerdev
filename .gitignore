@@ -1,0 +1,7 @@
+config.csrt-sercret.php
+config.inc.php
+parent_tabdata.php
+tabdata.php
+test/*
+log/*
+user_privileges/*
