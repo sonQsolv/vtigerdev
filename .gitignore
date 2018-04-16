@@ -1,4 +1,4 @@
-config.csrt-sercret.php
+config.csrf-sercret.php
 config.inc.php
 parent_tabdata.php
 tabdata.php
