@@ -174,6 +174,7 @@ PriceBooks_Detail_Js("Products_Detail_Js", {
      * Function to register events
      */
     registerEvents: function() {
+	alert();
         var self = this;
         app.event.on("post.RecordList.click", function(event, data) {
             var responseData = JSON.parse(data);
